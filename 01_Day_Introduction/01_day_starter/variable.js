@@ -1,6 +1,6 @@
 let isString = "Adebano Ruqayyah"
 let isBoolean = true
-let emptyValue = null
+let emptyValue1 = null
 let isUndefined 
 console.log(isString)
 console.log(isBoolean)
